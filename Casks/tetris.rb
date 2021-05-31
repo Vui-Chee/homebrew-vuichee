@@ -1,4 +1,4 @@
-cask "Tetris" do
+cask "tetris" do
   name "Tetris"
   desc "Desktop game of tetris"
   homepage "https://github.com/Vui-Chee/Tetris-Solarized"
@@ -6,5 +6,5 @@ cask "Tetris" do
   sha256 "9854cc35236f67ccbfe8cf12843e9b5ab302810e6783a1cba7849a52e576301f"
   license "MIT"
   
-  app "Tetris.app"
+  app "tetris-solarized-darwin-x64/tetris-solarized.app"
 end
